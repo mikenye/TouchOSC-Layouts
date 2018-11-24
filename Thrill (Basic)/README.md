@@ -23,7 +23,7 @@ This basic layout features two controls.
 
 The idea is that you set Thrill up in the way you want, select your preset, modify as required, then use the TouchOSC layout to "play" Thrill, either live or while recording MIDI input with your DAW.
 
-![Thrill XY Basic (iPhone) Layout Image](<https://github.com/mikenye/TouchOSC-Layouts/raw/master/Thrill%20(Basic)/img/Layout.png> =250x)
+![Thrill XY Basic (iPhone) Layout Image](<https://github.com/mikenye/TouchOSC-Layouts/raw/master/Thrill%20(Basic)/img/Layout.png> | width=250)
 
 
 
