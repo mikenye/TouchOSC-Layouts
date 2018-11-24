@@ -5,7 +5,7 @@
 This basic [TouchOSC](https://hexler.net/software/touchosc) layout allows you to:
 * Perform real-time control of Thrill's XY pad
 * Perform simple note-on/note-off
-* Play Thrill's "live" (useful for stage performances)
+* Play Thrill "live" (useful for stage performances)
 
 In order to use this layout, you will need the following:
 * TouchOSC installed on your phone/tablet

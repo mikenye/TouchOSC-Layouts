@@ -11,4 +11,4 @@ There are the following layouts available:
 This basic layout allows you to:
 * Perform real-time control of Thrill's XY pad
 * Perform simple note-on/note-off
-* Play Thrill's "live" (useful for stage performances)
+* Play Thrill "live" (useful for stage performances)
