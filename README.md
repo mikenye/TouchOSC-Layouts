@@ -26,4 +26,4 @@ Also works perfectly with the [Real Outdoor Footsteps](https://tovusound.com/sho
 
 This layout allows you to:
 * Play footsteps
-* Control volume, pitch, shoe type and surface type (requires learning MIDI CC Automation in Kontakt)
+* Control volume, pitch, mic selector, shoe type and surface type (requires learning MIDI CC Automation in Kontakt)
