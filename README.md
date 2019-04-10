@@ -6,7 +6,7 @@ There are the following layouts available:
 
 ## Thrill (Basic)
 
-[Thrill](http://www.galaxy-instruments.com/thrill.html) is an amazing "performance instrument for playing spine-chilling atmospheres, clusters, and hybrid textures" by [Native Instruments](https://www.native-instruments.com/en/products/komplete/cinematic/thrill/) / [Galaxy Instruments](http://www.galaxy-instruments.com/thrill.html).
+[Thrill](http://www.galaxy-instruments.com/thrill.html) is an amazing "performance instrument for playing spine-chilling atmospheres, clusters, and hybrid textures" by [Galaxy Instruments / Native Instruments](https://www.native-instruments.com/en/products/komplete/cinematic/thrill/).
 
 <img src="https://github.com/mikenye/TouchOSC-Layouts/raw/master/Thrill%20(Basic)/img/Layout.png" alt="Thrill XY Basic (iPhone) Layout Image" width=250px>
 
